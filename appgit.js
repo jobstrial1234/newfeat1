@@ -4,3 +4,5 @@ const sum= a+b;
 console.log(sum)
 const diff = a-b;
 console.log(diff)
+const multi= a*b;
+console.log(mul)
