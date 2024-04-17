@@ -6,3 +6,6 @@ const diff = a-b;
 console.log(diff)
 const multi= a*b;
 console.log(multi)
+function newfeatadded(){
+    console.log("this is new feat")
+}
