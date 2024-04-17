@@ -9,4 +9,5 @@ console.log(multi)
 function newfeatadded(){
     console.log("this is new feat")
     console.log("new feat a")
+    console.log("new feat b")
 }
